@@ -1,0 +1,8 @@
+E:\VS projects\songsDownloader\songsDownloader\obj\Debug\songsDownloader.csproj.AssemblyReference.cache
+E:\VS projects\songsDownloader\songsDownloader\obj\Debug\songsDownloader.csproj.SuggestedBindingRedirects.cache
+E:\VS projects\songsDownloader\songsDownloader\obj\Debug\songsDownloader.csproj.CoreCompileInputs.cache
+E:\VS projects\songsDownloader\songsDownloader\bin\Debug\songsDownloader.exe.config
+E:\VS projects\songsDownloader\songsDownloader\bin\Debug\songsDownloader.exe
+E:\VS projects\songsDownloader\songsDownloader\bin\Debug\songsDownloader.pdb
+E:\VS projects\songsDownloader\songsDownloader\obj\Debug\songsDownloader.exe
+E:\VS projects\songsDownloader\songsDownloader\obj\Debug\songsDownloader.pdb
